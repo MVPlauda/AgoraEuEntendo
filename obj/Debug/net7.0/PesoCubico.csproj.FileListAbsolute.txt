@@ -1,0 +1,15 @@
+C:\Users\plaud\Desktop\PesoCubico\obj\Debug\net7.0\PesoCubico.csproj.AssemblyReference.cache
+C:\Users\plaud\Desktop\PesoCubico\obj\Debug\net7.0\PesoCubico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plaud\Desktop\PesoCubico\obj\Debug\net7.0\PesoCubico.AssemblyInfoInputs.cache
+C:\Users\plaud\Desktop\PesoCubico\obj\Debug\net7.0\PesoCubico.AssemblyInfo.cs
+C:\Users\plaud\Desktop\PesoCubico\obj\Debug\net7.0\PesoCubico.csproj.CoreCompileInputs.cache
+C:\Users\plaud\Desktop\PesoCubico\bin\Debug\net7.0\PesoCubico.exe
+C:\Users\plaud\Desktop\PesoCubico\bin\Debug\net7.0\PesoCubico.deps.json
+C:\Users\plaud\Desktop\PesoCubico\bin\Debug\net7.0\PesoCubico.runtimeconfig.json
+C:\Users\plaud\Desktop\PesoCubico\bin\Debug\net7.0\PesoCubico.dll
+C:\Users\plaud\Desktop\PesoCubico\bin\Debug\net7.0\PesoCubico.pdb
+C:\Users\plaud\Desktop\PesoCubico\obj\Debug\net7.0\PesoCubico.dll
+C:\Users\plaud\Desktop\PesoCubico\obj\Debug\net7.0\refint\PesoCubico.dll
+C:\Users\plaud\Desktop\PesoCubico\obj\Debug\net7.0\PesoCubico.pdb
+C:\Users\plaud\Desktop\PesoCubico\obj\Debug\net7.0\PesoCubico.genruntimeconfig.cache
+C:\Users\plaud\Desktop\PesoCubico\obj\Debug\net7.0\ref\PesoCubico.dll
